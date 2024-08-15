@@ -1,3 +1,8 @@
+# Github Link: https://github.com/aratrikchandra/Linux-INternals-Understanding-and-eXploration.git
+
+# Name - Aratrik Chandra
+# Roll - 23m0786
+
 # Linux Kernel Modules for Process and Memory Management
 
 This repository contains a set of Linux Kernel Modules (LKMs) that provide insights into process and memory management in the Linux kernel. These modules demonstrate how to list processes, inspect process information, and map virtual to physical memory addresses.
